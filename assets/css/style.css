@@ -18,46 +18,7 @@ body {
     margin-right: 0;
     font-family: 'robotoregular';
     font-weight: 300;
-       #content {
-            width: 100%;
-            max-width: 600px;
-            margin: 0 auto;
-            min-height: 24px;
-            height: 100%;
-            position: relative;
-            text-align: center;
-            top: 33%;
-            .title {
-                color: white;
-                font-family: 'Quicksand', sans-serif;
-                font-size: 4rem;
-                text-transform: uppercase;
-                padding-bottom: 0px;
-                margin-bottom: 0px;
-                span {
-                    font-size: 4rem;
-                    cursor: pointer
-                }
-                &:hover {
-                    -webkit-animation: MISSION-HOVER 1.5s infinite;
-                    -moz-animation: MISSION-HOVER 1.5s infinite;
-                    -o-animation: MISSION-HOVER 1.5s infinite;
-                    animation: MISSION-HOVER 1.5s infinite;
-                    animation-direction: alternate;
-                    animation-timing-function: ease;
-                }
-                @-webkit-keyframes MISSION-HOVER {
-                    0%, 100% {
-                        font-size: 4rem;
-                        color: white;
-                    }
-                    50% {
-                        color: #BFFCFF;
-                        letter-spacing: 5px;
-                        text-shadow: 0px 0px 30px rgba(191, 252, 255, 1);
-                    }
-                }
-            }
+      
 }
 
 /*==========================================
