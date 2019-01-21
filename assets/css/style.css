@@ -38,7 +38,7 @@ PRE LOADER
 }
 
 .loaded {
-    width: 160px;
+    width: 100%;
     height: 160px;
     position: absolute;
     left: 50%;
@@ -48,7 +48,7 @@ PRE LOADER
     background-position: center;
     -moz-background-size: cover;
     background-size: cover;
-    margin: -20px 0 0 -20px;
+    margin: auto;
 }
 img {
     -moz-user-select: none;
