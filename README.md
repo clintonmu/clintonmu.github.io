@@ -1,2 +1,2 @@
 # clintonmu.github.io
-Clinton madhu Usha official 
+Clinton Madhu Usha Official 
